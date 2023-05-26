@@ -1,0 +1,57 @@
+/* *{
+  border: 1px solid red;
+} */
+
+html {
+  font-family: sans-serif;
+  height: 90%;
+}
+
+body {
+  width: 95%;
+  height: 90%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  background-color: rgb(220, 227, 230);
+}
+
+.Principal{
+  min-height: 90%;
+  padding-bottom: 50px;
+}
+
+.form input[type="number"] {
+  width: 200px;
+}
+
+/* .button{
+  align-items: ;
+} */
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
